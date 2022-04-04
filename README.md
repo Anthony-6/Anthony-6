@@ -7,15 +7,15 @@
 - For this project, I learned how to program in C# in 2 weeks.
   
 - With peers we recreate the printf function and a simple shell in C, we also had a team project about binary trees. 
-  
+
 - For my portfolio project I'm working on a video game in unity and C#.
   
 - I realy enjoyed working on it because I have learn a lot of thing.
 
 ## Article
 #### My latest Medium articles:
-<!--MEDIUM-STORY-LIST:START--> 
-<!--MEDIUM-STORY-LIST:END--> 
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
