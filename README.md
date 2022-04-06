@@ -12,17 +12,16 @@
   
 - I realy enjoyed working on it because I have learn a lot of thing.
 
-## Article
 #### **My latest Medium articles:**
 
 <!-- MEDIUM-STORY-LIST:START -->
 
 <!-- MEDIUM-STORY-LIST:END -->
 
-## Connect with me:
+### Connect with me:
 <p align="left">  
 <a href="https://linkedin.com/in/anthonylacoste-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonylacoste-dev" height="30" width="40" /></a>
 </p>  
   
-## Languages and Tools:
+### Languages and Tools:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
