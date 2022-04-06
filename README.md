@@ -12,7 +12,7 @@
   
 - I realy enjoyed working on it because I have learn a lot of thing.
 
-#### **My latest Medium articles:**
+### **My latest Medium articles:**
 
 <!-- MEDIUM-STORY-LIST:START -->
 
