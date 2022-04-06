@@ -18,6 +18,8 @@
 
 <!-- MEDIUM-STORY-LIST:END -->
 
+**coming soon (when it will work)**
+
 ### Connect with me:
 <p align="left">  
 <a href="https://linkedin.com/in/anthonylacoste-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonylacoste-dev" height="30" width="40" /></a>
